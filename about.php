@@ -66,7 +66,7 @@
                 <div class="text-holder">
                     <div class="top-text">
                         <h3>We Set The Standards Others Try to Live Up to</h3>  
-                        <p>Icare Coventry is a privately owned domiciliary care company, based in Coventry, established in 2015, stemmed out of personal experience and commitment to providing high quality care, particularly around dementia care. Our personalised home care service gives you the choice to remain independent in your own home, without compromising on the quality of your care. We are based in Coventry and our geographical area covers Coventry & the surrounding areas.</p> 
+                        <p>skcare Coventry is a privately owned domiciliary care company, based in Coventry, established in 2015, stemmed out of personal experience and commitment to providing high quality care, particularly around dementia care. Our personalised home care service gives you the choice to remain independent in your own home, without compromising on the quality of your care. We are based in Coventry and our geographical area covers Coventry & the surrounding areas.</p> 
                         <p>Icare Coventry is regulated and inspected by the Care Quality Commission (CQC). We endeavour to comply with all CQC ‘Essential Standards of Quality and Safety 2010’ and aim to exceed at all times the National Minimum Standards that these require. To achieve this we constantly review, monitor and update all areas of the business.</p>
                     </div>
                      <ul class="benifit-list">

@@ -9,7 +9,7 @@
         	<div class="container">
             	<div class="row clearfix">
                     <div class="col-md-6 col-sm-6 col-xs-12 pull-left">
-						<h1>Elderly Medical Care</h1>
+						<h1>PERSONAL CARE</h1>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
 					</div>
                     <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="index-2.html">Home</a>&ensp;/&ensp;<a href="#">AMBULANCE SERVICE</a></div>
@@ -25,24 +25,27 @@
 					<div class="col-md-4 col-sm-12 col-xs-12">          
 						<div class="service-sidebar">
 							<ul class="service-catergory">
-								<li><a href="service.html"><span class="icon-left fa fa-chevron-right"></span>All Services</a></li>
+								<li><a href="#"><span class="icon-left fa fa-chevron-right"></span>Dementia</a></li>
 								<li class="active">
-									<a href="single-service-1.html"><span class="icon-left fa fa-chevron-right"></span>Elderly Medical Care</a>
+									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Learning Disabilities</a>
 								</li>
 								<li>
-									<a href="single-service-2.html"><span class="icon-left fa fa-chevron-right"></span>Skilled Nursing</a>
+									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Mental Health Condition</a>
 								</li>
 								<li>
-									<a href="single-service-3.html"><span class="icon-left fa fa-chevron-right"></span>24h/7days Support</a>
+									<a href="personal.php"><span class="icon-left fa fa-chevron-right"></span>Personal Care</a>
 								</li>
 								<li>
-									<a href="single-service-4.html"><span class="icon-left fa fa-chevron-right"></span>Ensure Family Care</a>
+									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Physical Disabilities</a>
 								</li>
 								<li>
-									<a href="single-service-5.html"><span class="icon-left fa fa-chevron-right"></span>Continue Care</a>
+									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Sensory Impairments</a>
 								</li>
 								<li>
-									<a href="single-service-6.html"><span class="icon-left fa fa-chevron-right"></span>Assisted Living</a>
+									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Caring for Adults Under 65 Years</a>
+								</li>
+								<li>
+									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Caring for Adults Over 65 Years</a>
 								</li>
 								
 							</ul>                                                 
@@ -59,11 +62,21 @@
 									</div>
 									
 									<div class="text">
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+										<p>As part of our duty towards your personal care we offer all of the following:
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 									</div>
-								
+										
+										<ul class="benifit-list">
+					                        <li><i class="fa fa-angle-right"></i>Help in getting ready in the morning, include waking up, getting dressed and washing.</li>
+					                        <li><i class="fa fa-angle-right"></i>Helping with meal preparation, including scheduling and ensuring you eat Nutritional and healthy Meals</li>
+					                        <li><i class="fa fa-angle-right"></i>Help with incontinence issues.</li>
+					                        <li><i class="fa fa-angle-right"></i>Assistance during meal times.</li>
+					                        <li><i class="fa fa-angle-right"></i>Assistance with personal grooming, including baths and showers.</li>
+					                        <li><i class="fa fa-angle-right"></i>Reminders about when you need to take any medications you are on.</li>
+					                        <li><i class="fa fa-angle-right"></i>Assistance during bed time, ensuring you are comfortable and everything is locked up.</li>
+					                    </ul>
 									<div class="text style-two">
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+										<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p> -->
 									</div>
 									<div class="clearfix">
 										
