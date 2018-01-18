@@ -109,7 +109,7 @@ a {text-decoration: none; display: inline-block; outline: none;}
 a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
 
 img {
-  width: 65%;
+  width: 105%;
   display: inline-block;
 }
 
@@ -443,7 +443,7 @@ input,textarea {
 /*logo*/
 
 .main-logo {
-  padding: 20px 0px 20px;
+  padding: 0px 30px 0px;
   background: #48bef1;
   position: relative;
 }

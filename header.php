@@ -69,7 +69,7 @@
 
 									<li class="<?php if($page_name=='about.php') echo 'current'; ?>"><a href="about.php">About</a></li>
 
-									<li class="dropdown <?php if($page_name=='service.php' || 'personal.php') echo 'current'; ?>"><a href="service.php">Services</a>
+									<li class="dropdown <?php if($page_name=='service.php') echo 'current'; ?>"><a href="service.php">Services</a>
 										<ul>
 											<li><a href="#">Dementia</a></li>
 											<li><a href="#">Learning Disabilities</a></li>
