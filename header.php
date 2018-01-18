@@ -71,14 +71,14 @@
 
 									<li class="dropdown <?php if($page_name=='service.php') echo 'current'; ?>"><a href="service.php">Services</a>
 										<ul>
-											<li><a href="service.html">Dementia</a></li>
-											<li><a href="service.html">Learning Disabilities</a></li>
-											<li><a href="service.html">Mental Health Condition</a></li>
-											<li><a href="service.html">Personal Care</a></li>
-											<li><a href="service.html">Physical Disabilities</a></li>
-											<li><a href="service.html">Sensory Impairments</a></li>
-											<li><a href="service.html">Caring for Adults Under 65 Years</a></li>
-											<li><a href="service.html">Caring for Adults Over 65 Years</a></li>
+											<li><a href="#">Dementia</a></li>
+											<li><a href="#">Learning Disabilities</a></li>
+											<li><a href="#">Mental Health Condition</a></li>
+											<li><a href="personal.php">Personal Care</a></li>
+											<li><a href="#">Physical Disabilities</a></li>
+											<li><a href="#">Sensory Impairments</a></li>
+											<li><a href="#">Caring for Adults Under 65 Years</a></li>
+											<li><a href="#">Caring for Adults Over 65 Years</a></li>
 
 										 </ul>
 									</li>
