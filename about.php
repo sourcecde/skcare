@@ -76,10 +76,6 @@
                         <li><i class="fa fa-angle-right"></i>Online payment seystem with different method</li>
                     </ul>
 
-                    <div class="link_btn">
-                        <a href="about.html" class="thm-btn style-2">read more</a>
-                        
-                    </div>
                 </div>
             </div>
         </div>
@@ -87,7 +83,94 @@
     </div>
 </section>           
 <!--End know about area-->  
+<!--Featured Section-->
+    <section class="bg-color-black featured-inner">
+        <div class="container"> 
+        <!-- <div class="sec-title">
+			<h2>Frequently Asked  <span>Questions</span></h2>
+			
+		</div>   -->          
+            <div class="row clearfix">              
+                
+                <!--Accordion Column-->
+                <article class="col-md-12 column">
 
+                    <!--Accordion Box-->
+                    <ul class="accordion-box style-two">
+                        
+                        <!--Block-->
+                        <li class="block">
+                            <div class="acc-btn active"><div class="icon-outer"><span class="icon fa icon-minus flaticon-minus-sign2"></span> <span class="icon icon-plus flaticon-plussign22"></span></div>Aims and Objectives</div>
+                            <div class="acc-content current">
+                                <div class="content">
+                                    <p>Icare Coventry aims to provide services which safeguard and promote the health, welfare and quality of life of venerable people living in their own homes.</p>
+                                    <p>
+                                    	Our key objectives are to provide services which:
+                                    </p>
+                                    <ul class="benifit-list">
+										<li><i class="fa fa-angle-right"></i>Are reliable, dependable and responsive</li>
+										<li><i class="fa fa-angle-right"></i>Show courtesy, dignity and respect</li>
+										<li><i class="fa fa-angle-right"></i>Meet the assessed needs of service users</li>
+										<li><i class="fa fa-angle-right"></i>Maintain service users’ self esteem</li>
+										<li><i class="fa fa-angle-right"></i>Recognise the individuality and diversity of each service user</li>
+										<li><i class="fa fa-angle-right"></i>Maximise independence</li>
+										<li><i class="fa fa-angle-right"></i>Offer choices and enable service users to make decisions about how the care is to be Provided</li>
+									</ul>
+                                </div>
+                            </div>
+                        </li>
+                        
+                        <!--Block-->
+                        <li class="block">
+                            <div class="acc-btn"><div class="icon-outer"><span class="icon fa icon-minus flaticon-minus-sign2"></span> <span class="icon icon-plus flaticon-plussign22"></span></div>Icare Coventry aim to achieve this by:</div>
+                            <div class="acc-content">
+                                <div class="content">
+                                    <ul class="benifit-list">
+										<li><i class="fa fa-angle-right"></i>Employing competent, well trained management and staff</li>
+										<li><i class="fa fa-angle-right"></i>Developing robust policies and procedures in line with relevant legislation requirements</li>
+										<li><i class="fa fa-angle-right"></i>Providing accessible and up to date information for prospective and existing service users and their representatives</li>
+										<li><i class="fa fa-angle-right"></i>Being flexible in delivering services to meet the changing needs of those who use its services</li>
+										<li><i class="fa fa-angle-right"></i>Offering continuity of care through named, allocated carers</li>
+										<li><i class="fa fa-angle-right"></i>Avoiding dependence by encouraging and supporting service users to participate as much as possible in their own care</li>
+										<li><i class="fa fa-angle-right"></i>Listening to comments and suggestions by service users and their representatives to develop and improve services</li>
+										<li><i class="fa fa-angle-right"></i>Developing a Quality Assurance system which allows responsible individuals to continuously monitor, evaluate and develop practices</li>
+									</ul>
+                                </div>
+                            </div>
+                        </li>
+                        
+                        <!--Block-->
+                        <li class="block">
+                            <div class="acc-btn"><div class="icon-outer"><span class="icon fa icon-minus flaticon-minus-sign2"></span> <span class="icon icon-plus flaticon-plussign22"></span></div>Nature of Services provided</div>
+                            <div class="acc-content">
+                                <div class="content">
+                                   <p>Icare Coventry is a domiciliary care agency, which provides a range of personal care and essential domestic support services for vulnerable people living in their own homes who may be unable to carry out these tasks for themselves. Regulated and assessed by the Care Quality Commission.</p>
+                                    <p>While the exact nature of service provided to each Service User will vary and tailored to their needs, the following are examples of the services that are offered:</p>
+                                    <ul class="benifit-list">
+										<li><i class="fa fa-angle-right"></i>Assistance with dressing and grooming</li>
+										<li><i class="fa fa-angle-right"></i>Help with personal cleanliness (Washing, bathing and showering)</li>
+										<li><i class="fa fa-angle-right"></i>Assisting with getting in and out of bed</li>
+										<li><i class="fa fa-angle-right"></i>Preparation of meals and drinks</li>
+										<li><i class="fa fa-angle-right"></i>Support with continence Care</li>
+										<li><i class="fa fa-angle-right"></i>Help and assistance with general mobility needs</li>
+										<li><i class="fa fa-angle-right"></i>Prompting or administration of medication</li>
+										<li><i class="fa fa-angle-right"></i>Assistance with domestic tasks including cleaning, washing, ironing, hovering, bed making and changing</li>
+										<li><i class="fa fa-angle-right"></i>Escorting / accompanying within the community to day centres, doctors surgery, opticians, shops</li>
+										<li><i class="fa fa-angle-right"></i>Providing company and companionship</li>
+										<li><i class="fa fa-angle-right"></i>Providing care to cover for family/carer to take a break</li>
+									</ul>
+                                </div>
+                            </div>
+                        </li>
+                        
+                    </ul>
+                    
+                </article>
+            
+            </div>
+            
+        </div>
+    </section>
 <!--Paralax Style One-->
 		<section class="parallax-style-one" style="background-image:url(images/background/bg-4.jpg);">
 			<div class="container">
