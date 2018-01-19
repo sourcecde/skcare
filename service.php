@@ -42,7 +42,7 @@
 			                    </div>
 			                    <div class="text-holder">
 			                    	<a href="#">
-				                        <h5>Elderly Medical Care</h5>
+				                        <h5>Dementia</h5>
 				                    </a>
 			                        <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 
@@ -66,7 +66,7 @@
 			                    </div>
 			                    <div class="text-holder">
 			                    	<a href="#">
-				                        <h5>Skilled Nursing</h5>
+				                        <h5>Learning Disabilities</h5>
 				                    </a>
 			                        <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 			                    </div>
@@ -89,7 +89,7 @@
 			                    </div>
 			                    <div class="text-holder">
 			                    	<a href="#">
-				                        <h5>24h/7days Support</h5>
+				                        <h5>Mental Health Condition</h5>
 				                    </a>
 			                        <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 			                    </div>
@@ -112,7 +112,7 @@
 			                    </div>
 			                    <div class="text-holder">
 			                    	<a href="#">
-				                        <h5>Ensure Family Care</h5>
+				                        <h5>Personal Care</h5>
 				                    </a>
 			                        <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 			                    </div>
@@ -135,7 +135,7 @@
 			                    </div>
 			                    <div class="text-holder">
 			                    	<a href="#">
-				                        <h5>Continue Care</h5>
+				                        <h5>Physical Disabilities</h5>
 				                    </a>
 			                        <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 			                    </div>
@@ -158,7 +158,53 @@
 			                    </div>
 			                    <div class="text-holder">
 			                    	<a href="#">
-				                        <h5>Assisted Living</h5>
+				                        <h5>Sensory Impairments</h5>
+				                    </a>
+			                        <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+			                    </div>
+			                </div>
+			            </div>
+			            <!--End single item-->
+			              <!--Start single item-->
+			            <div class="col-md-4">
+			                <div class="single-item text-center">
+			                    
+			                    <div class="img-holder">
+			                        <img src="images/service/8.jpg" alt="Awesome Image">
+			                        <div class="overlay">
+			                            <div class="box">
+			                                <div class="content">
+			                                    <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
+			                                </div>
+			                            </div>
+			                        </div>
+			                    </div>
+			                    <div class="text-holder">
+			                    	<a href="#">
+				                        <h5>Caring for adults under 65 years</h5>
+				                    </a>
+			                        <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+			                    </div>
+			                </div>
+			            </div>
+			            <!--End single item-->
+			              <!--Start single item-->
+			            <div class="col-md-4">
+			                <div class="single-item text-center">
+			                    
+			                    <div class="img-holder">
+			                        <img src="images/service/9.jpg" alt="Awesome Image">
+			                        <div class="overlay">
+			                            <div class="box">
+			                                <div class="content">
+			                                    <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
+			                                </div>
+			                            </div>
+			                        </div>
+			                    </div>
+			                    <div class="text-holder">
+			                    	<a href="#">
+				                        <h5>Caring for adults over 65 years</h5>
 				                    </a>
 			                        <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 			                    </div>
