@@ -67,7 +67,7 @@
                     <div class="top-text">
                         <h3>We Set The Standards Others Try to Live Up to</h3>  
                         <p>skcare Coventry is a privately owned domiciliary care company, based in Coventry, established in 2015, stemmed out of personal experience and commitment to providing high quality care, particularly around dementia care. Our personalised home care service gives you the choice to remain independent in your own home, without compromising on the quality of your care. We are based in Coventry and our geographical area covers Coventry & the surrounding areas.</p> 
-                        <p>Icare Coventry is regulated and inspected by the Care Quality Commission (CQC). We endeavour to comply with all CQC ‘Essential Standards of Quality and Safety 2010’ and aim to exceed at all times the National Minimum Standards that these require. To achieve this we constantly review, monitor and update all areas of the business.</p>
+                        <p>SKcare Coventry is regulated and inspected by the Care Quality Commission (CQC). We endeavour to comply with all CQC ‘Essential Standards of Quality and Safety 2010’ and aim to exceed at all times the National Minimum Standards that these require. To achieve this we constantly review, monitor and update all areas of the business.</p>
                     </div>
                      <ul class="benifit-list">
                         <li><i class="fa fa-angle-right"></i>We are always carefull to our service </li>
@@ -103,7 +103,7 @@
                             <div class="acc-btn active"><div class="icon-outer"><span class="icon fa icon-minus flaticon-minus-sign2"></span> <span class="icon icon-plus flaticon-plussign22"></span></div>Aims and Objectives</div>
                             <div class="acc-content current">
                                 <div class="content">
-                                    <p>Icare Coventry aims to provide services which safeguard and promote the health, welfare and quality of life of venerable people living in their own homes.</p>
+                                    <p>SKcare Coventry aims to provide services which safeguard and promote the health, welfare and quality of life of venerable people living in their own homes.</p>
                                     <p>
                                     	Our key objectives are to provide services which:
                                     </p>
@@ -122,7 +122,7 @@
                         
                         <!--Block-->
                         <li class="block">
-                            <div class="acc-btn"><div class="icon-outer"><span class="icon fa icon-minus flaticon-minus-sign2"></span> <span class="icon icon-plus flaticon-plussign22"></span></div>Icare Coventry aim to achieve this by:</div>
+                            <div class="acc-btn"><div class="icon-outer"><span class="icon fa icon-minus flaticon-minus-sign2"></span> <span class="icon icon-plus flaticon-plussign22"></span></div>SKcare Coventry aim to achieve this by:</div>
                             <div class="acc-content">
                                 <div class="content">
                                     <ul class="benifit-list">
@@ -144,7 +144,7 @@
                             <div class="acc-btn"><div class="icon-outer"><span class="icon fa icon-minus flaticon-minus-sign2"></span> <span class="icon icon-plus flaticon-plussign22"></span></div>Nature of Services provided</div>
                             <div class="acc-content">
                                 <div class="content">
-                                   <p>Icare Coventry is a domiciliary care agency, which provides a range of personal care and essential domestic support services for vulnerable people living in their own homes who may be unable to carry out these tasks for themselves. Regulated and assessed by the Care Quality Commission.</p>
+                                   <p>SKcare Coventry is a domiciliary care agency, which provides a range of personal care and essential domestic support services for vulnerable people living in their own homes who may be unable to carry out these tasks for themselves. Regulated and assessed by the Care Quality Commission.</p>
                                     <p>While the exact nature of service provided to each Service User will vary and tailored to their needs, the following are examples of the services that are offered:</p>
                                     <ul class="benifit-list">
 										<li><i class="fa fa-angle-right"></i>Assistance with dressing and grooming</li>

@@ -43,9 +43,10 @@
 					                        <li><i class="fa fa-angle-right"></i>Encourages engagement</li>
 					                        <li><i class="fa fa-angle-right"></i>Provides nutritious meals</li>
 					                        <li><i class="fa fa-angle-right"></i>Creates social interaction</li>
-					                        <li><i class="fa fa-angle-right"></i>Assistance with personal grooming, including baths and showers.</li>
-					                        <li><i class="fa fa-angle-right"></i>Reminders about when you need to take any medications you are on.</li>
-					                        <li><i class="fa fa-angle-right"></i>Assistance during bed time, ensuring you are comfortable and everything is locked up.</li>
+					                        <li><i class="fa fa-angle-right"></i>Provides mind-stimulating activities</li>
+					                        <li><i class="fa fa-angle-right"></i>Helps minimize changing behavioral & cognitive symptoms</li>
+					                        <li><i class="fa fa-angle-right"></i>Honors who the senior was earlier in life</li>
+					                        <li><i class="fa fa-angle-right"></i>Supports the family</li>
 					                    </ul>
 									<div class="text style-two">
 										<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p> -->

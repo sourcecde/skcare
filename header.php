@@ -70,7 +70,7 @@
 									<li class="<?php if($page_name=='about.php') echo 'current'; ?>"><a href="about.php">About</a></li>
 
 									<li class="dropdown <?php if($page_name=='service.php') echo 'current'; ?>"><a href="service.php">Services</a>
-										<ul>
+										<!-- <ul>
 											<li><a href="#">Dementia</a></li>
 											<li><a href="#">Learning Disabilities</a></li>
 											<li><a href="#">Mental Health Condition</a></li>
@@ -79,8 +79,7 @@
 											<li><a href="#">Sensory Impairments</a></li>
 											<li><a href="#">Caring for Adults Under 65 Years</a></li>
 											<li><a href="#">Caring for Adults Over 65 Years</a></li>
-
-										 </ul>
+										 </ul> -->
 									</li>
 									
 
