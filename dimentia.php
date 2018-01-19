@@ -9,7 +9,7 @@
         	<div class="container">
             	<div class="row clearfix">
                     <div class="col-md-6 col-sm-6 col-xs-12 pull-left">
-						<h1>PERSONAL CARE</h1>
+						<h1>Dementia Care</h1>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
 					</div>
                     <div class="col-md-6 col-sm-6 col-xs-12 pull-right text-right path"><a href="index-2.html">Home</a>&ensp;/&ensp;<a href="#">AMBULANCE SERVICE</a></div>
@@ -22,35 +22,7 @@
 		<section class="service-single">
 			<div class="container">
 				<div class="row">     
-					<div class="col-md-4 col-sm-12 col-xs-12">          
-						<div class="service-sidebar">
-							<ul class="service-catergory">
-								<li><a href="dimentia.php"><span class="icon-left fa fa-chevron-right"></span>Dementia</a></li>
-								<li>
-									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Learning Disabilities</a>
-								</li>
-								<li>
-									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Mental Health Condition</a>
-								</li>
-								<li  class="active">
-									<a href="personal.php"><span class="icon-left fa fa-chevron-right"></span>Personal Care</a>
-								</li>
-								<li>
-									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Physical Disabilities</a>
-								</li>
-								<li>
-									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Sensory Impairments</a>
-								</li>
-								<li>
-									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Caring for Adults Under 65 Years</a>
-								</li>
-								<li>
-									<a href="#"><span class="icon-left fa fa-chevron-right"></span>Caring for Adults Over 65 Years</a>
-								</li>
-								
-							</ul>                                                 
-						</div>
-					</div>
+					<?php include("left_menu.php"); ?>
 					<div class="col-md-8 col-sm-12 col-xs-12">
 						<div class="outer-box">
 							<div class="img-box"><img src="images/resources/service-1.jpg" alt=""></div>
@@ -62,15 +34,15 @@
 									</div>
 									
 									<div class="text">
-										<p>As part of our duty towards your personal care we offer all of the following:
+										<p>We pioneered memory care training. In collaboration with experts on Alzheimer’s disease, we created a training program called Alzheimer’s Disease or Other Dementias CARE: Changing Aging Through Research and Education®. This unique program equips our CAREGiversSM to deliver distinctive memory care based on research and experience.  Rather than focusing on the diagnosis and symptoms of the disease, our CARE program focuses on the care and dignity of the person with dementia. This relationship-centered approach enables CAREGivers to provide individualized care that:
 										<!-- Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. --></p>
 									</div>
 										
 										<ul class="benifit-list">
-					                        <li><i class="fa fa-angle-right"></i>Help in getting ready in the morning, include waking up, getting dressed and washing.</li>
-					                        <li><i class="fa fa-angle-right"></i>Helping with meal preparation, including scheduling and ensuring you eat Nutritional and healthy Meals</li>
-					                        <li><i class="fa fa-angle-right"></i>Help with incontinence issues.</li>
-					                        <li><i class="fa fa-angle-right"></i>Assistance during meal times.</li>
+					                        <li><i class="fa fa-angle-right"></i>Helps your loved one remain safe and calm at home</li>
+					                        <li><i class="fa fa-angle-right"></i>Encourages engagement</li>
+					                        <li><i class="fa fa-angle-right"></i>Provides nutritious meals</li>
+					                        <li><i class="fa fa-angle-right"></i>Creates social interaction</li>
 					                        <li><i class="fa fa-angle-right"></i>Assistance with personal grooming, including baths and showers.</li>
 					                        <li><i class="fa fa-angle-right"></i>Reminders about when you need to take any medications you are on.</li>
 					                        <li><i class="fa fa-angle-right"></i>Assistance during bed time, ensuring you are comfortable and everything is locked up.</li>
