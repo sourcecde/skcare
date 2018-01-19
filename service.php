@@ -31,7 +31,7 @@
 		                <div class="img-holder">
 		                	<div class="singel-item col-md-11">
 		                		<br><br><br><br>
-		                        <img src="images/resources/service-1.jpg" alt="Awesome Image">
+		                        <img src="images/service/1.jpg" alt="Awesome Image">
 		                    </div>
 		                </div>
 		            </div>
@@ -82,7 +82,7 @@
         				<div class="img-holder">
 		                	<div class="singel-item col-md-11">
 		                		<br><br><br>
-		                        <img src="images/resources/service-1.jpg" alt="Awesome Image">
+		                        <img src="images/service/3.jpg" alt="Awesome Image">
 		                    </div>
 		                </div>
         			</div>
@@ -94,7 +94,7 @@
 		                <div class="img-holder">
 		                	<div class="singel-item col-md-11">
 		                		<br><br><br>
-		                        <img src="images/resources/service-1.jpg" alt="Awesome Image">
+		                        <img src="images/service/2.jpg" alt="Awesome Image">
 		                    </div>
 		                </div>
 		            </div>
@@ -145,10 +145,40 @@
         				<div class="img-holder">
 		                	<div class="singel-item col-md-11">
 		                		<br><br><br><br><br><br><br>
-		                        <img src="images/resources/service-1.jpg" alt="Awesome Image">
+		                        <img src="images/service/6.jpg" alt="Awesome Image">
 		                    </div>
 		                </div>
         			</div>
+        		</div>
+
+
+        		<!-- Left Image row -->
+		        <div class="row">
+		            <div class="col-lg-6 col-md-12">
+		                <div class="img-holder">
+		                	<div class="singel-item col-md-11">
+		                		<br>
+		                        <img src="images/resources/a4.jpg" alt="Awesome Image">
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="col-lg-6 col-md-12">
+		                <div class="text-holder">
+		                    <div class="top-text">
+		                        <h3>Personal Care</h3>  <br>
+		                        <p>As part of our duty towards your personal care we offer all of the following:</p>
+		                    </div>
+		                    <ul class="benifit-list">
+		                        <li><i class="fa fa-angle-right"></i>Help in getting ready in the morning, include waking up, getting dressed and washing.</li>
+		                        <li><i class="fa fa-angle-right"></i>Helping with meal preparation, including scheduling and ensuring you eat Nutritional and healthy Meals</li>
+		                        <li><i class="fa fa-angle-right"></i>Help with incontinence issues.</li>
+		                        <li><i class="fa fa-angle-right"></i>Assistance during meal times.</li>
+		                        <li><i class="fa fa-angle-right"></i>Assistance with personal grooming, including baths and showers.</li>
+		                        <li><i class="fa fa-angle-right"></i>Reminders about when you need to take any medications you are on.</li>
+		                        <li><i class="fa fa-angle-right"></i>Assistance during bed time, ensuring you are comfortable and everything is locked up.</li>
+		                    </ul>	                
+		                </div>
+		            </div>
         		</div>
 
 
